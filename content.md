@@ -8,7 +8,7 @@ Frank Sons bei der SoCraTes 2017.
 Frontalunterricht vermeiden.
 Methode Working out Loud.
 
-3-5 Leute treffen sich für eine Stunde (1-2 wöchentlich).
+3-5 Leute treffen sich 12 Mal für eine Stunde (1-2 wöchentlich).
 Ziel festlegen.
 Leute kennen sich nicht und haben divergierende Ziele.
 Vernetzung und andere Ideen im Fokus.
