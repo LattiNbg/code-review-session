@@ -1,0 +1,91 @@
+# Code Reviews
+
+by Latti
+
+
+## Arten
+
+* Pair Programming
+* Toolgestützt
+* Over the Shoulder
+* Formell
+* E-Mail
+
+
+
+
+## Motivation
+* Codequalität
+* Austausch von Domainen als auch Codewissen
+* Extrinsische Motivation
+* Fachliche Überprüfung
+* Fehlersuche
+* Vermeiden von Wissensinseln
+ * Einarbeitung
+ * Übergabe an andere Kollege
+ * Truckfaktor erhöhen
+ * Mentoring
+* Übergabe an Kunden (Quality Gate)
+* Lösungsdiskussion
+* Verständlichkeit
+* Absicherung
+ * "Cover your Ass"
+* Audit
+ 
+## Wer
+* Entwickler
+* Interne Experten
+* Externe Experten
+* Echte Architekten 
+
+## Was
+* Build Configuration
+* Produktionscode
+* Tests/Executable Specs
+* Specs
+* Doku
+
+## Wann
+* kontinuierlich (bei Pair Programming)
+* bei Pull oder Merge Request
+* am Sprintende
+* festes Intervall
+* wann immer es adäquat ist
+* möglichst zeitnah
+* bei Fehlern
+
+## Anti-Patterns
+* Ivory Tower Architekten
+* "Bassd scho"
+* &gt;1h
+* Ego ins Spiel bringen (sowohl als Reviewer, als auch als Gereviewter)
+* Zwang (dass es gemacht wird oder, dass alle mitmachen)
+* schlechte Umgangsformen
+* Style-Kommentare
+* Wunsch nach Architektur-Refactoring als Reviewfinding tarnen
+* Immer dieselben Leute machen Review
+* Kein Augenmaß beim Review
+
+## Dies und Das
+* Ausgewogenheit von F2F vs. Zeit alleine für Review nehmen
+
+## Toolunterstützung
+* Gerrit
+* Crucible
+* GitHub
+* Gogs (Go GitServer)
+
+## Toolgläubigkeit
+* keine SilverBullet
+* menschliche Komponente nicht auslassen
+
+## Cargo Cult
+* Neil Ford
+
+
+## 100%
+* kommt d'rauf an
+ * => Problem wie TestCoverage, 100% lenkt vom tatsächlichen Ziel ab... sollte halt gut genug sein
+* Wenn Regulatorien es erfordern
+ 
+## Pitfalls
